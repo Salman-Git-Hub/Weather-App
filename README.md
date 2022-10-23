@@ -2,7 +2,6 @@
 A simple weather app made with tkinter and python.
 Uses [OpenWeather](https://openweathermap.org/) api to the fetch weather data.
 
-<hr>
 
 ## How to use?
 Get an API Key from [OpenWeather](https://openweathermap.org/) and
