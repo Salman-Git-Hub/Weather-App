@@ -1,0 +1,5 @@
+{
+  "API_KEY": "{From https://openweathermap.org/}",
+  "UNIT": "{standard or metric or imperial}",
+  "LOCATION": "{DEFAULT LOCATION}"
+}

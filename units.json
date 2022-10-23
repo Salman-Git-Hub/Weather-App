@@ -1,0 +1,16 @@
+{
+  "temp": {
+    "standard": "K",
+    "metric": "\u00B0C",
+    "imperial": "\u00B0F"
+  },
+  "humidity": "%",
+  "pressure": "hPa",
+  "wind_speed": {
+    "standard": "m/s",
+    "metric": "m/s",
+    "imperial": "mi/hr"
+  },
+  "cloudiness": "%",
+  "visibility": "km"
+}
